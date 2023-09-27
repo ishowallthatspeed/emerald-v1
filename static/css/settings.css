@@ -97,7 +97,7 @@ input {
     padding: 15px;
     width: 93%;
     border-radius: 5px;
-    background: #353535;
+    background: #06c258;
     text-align: center;
     font-size: 24px;
     border: none;
@@ -109,7 +109,7 @@ input {
     padding: 15px;
     width: 93%;
     border-radius: 5px;
-    background: #353535;
+    background: #06c258;
     text-align: center;
     font-size: 24px;
     border: none;
@@ -151,7 +151,7 @@ button {
 select {
 		padding: 20px;
 		border-radius: 5px;
-		background: #353535;
+		background: #06c258;
 		color: white;
 		font-size: 20px;
 		border: 0px;
