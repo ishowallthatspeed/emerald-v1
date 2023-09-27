@@ -112,7 +112,7 @@ h2 {
     color:black
 }
 #INImg {
-    content: url("/main_inverted.png");
+    content: url("/main.png");
 }
 .searchbar {
     background-color: transparent;
