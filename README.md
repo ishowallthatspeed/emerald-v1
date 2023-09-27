@@ -2,7 +2,7 @@
 
 Emerald is one of the most modern and popular unblocking sites. 
 
-### [Join our Discord!](https://discord.gg/interstellar)
+### [Join our Discord!](https://discord.gg/A5qnb9nN)
 ##### By joining you will help the Emerald community grow even larger ❤
 ## Features
 
@@ -26,7 +26,7 @@ You can **NOT** deploy to Vercel, Netlify, Cloudflare Pages or any other **Stati
 > When hosting with replit you may have to keep the tab open due to the proxy being hosted within that tab. If closed, the site's domain will close and will not be accessible.  
 
 ## If you need any help with deploying, join our Discord!
-- https://discord.gg/interstellar
+- https://discord.gg/A5qnb9nN
 
 > **Note**
 > If you have any problems please open an issue, so we can fix it ASAP!
