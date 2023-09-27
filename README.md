@@ -20,7 +20,7 @@ Emerald is one of the most modern and popular unblocking sites.
 
 You can **NOT** deploy to Vercel, Netlify, Cloudflare Pages or any other **Static** Web Host.
 
-<a target="_blank" href="https://render.com/deploy?repo=(https://github.com/ishowallthatspeed/emerald-v1)"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
+<a target="_blank" href="https://render.com/deploy?repo=https://github.com/ishowallthatspeed/emerald-v1"><img alt="Deploy to Render" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg"></a>
 
 > **Note**
 > When hosting with replit you may have to keep the tab open due to the proxy being hosted within that tab. If closed, the site's domain will close and will not be accessible.  
