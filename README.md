@@ -30,7 +30,7 @@ You can **NOT** deploy to Vercel, Netlify, Cloudflare Pages or any other **Stati
 
 > **Note**
 > If you have any problems please open an issue, so we can fix it ASAP!
-> If you don't know how to do this because you are an absolute no-brainer then message us a report in our [Discord](https://discord.gg/interstellar)
+> If you don't know how to do this because you are an absolute no-brainer then message us a report in our [Discord](https://discord.gg/A5qnb9nN)
 
 # Credits
 Huge thanks to following people for contributing to Emerald
